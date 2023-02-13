@@ -1,0 +1,6 @@
+flask
+requests
+SQLAlchemy==1.4.46
+psycopg2-binary
+pydantic
+flask_bcrypt
